@@ -1,0 +1,24 @@
+/* styles/Navigation.css */
+@font-face {
+    font-family: 'Recoleta';
+    src: url('/fonts/Recoleta/Recoleta-RegularDEMO.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Apply the font to relevant elements in the navigation */
+  .navbar {
+    font-family: 'Recoleta', serif;
+  }
+  
+  .navbar .logo {
+    font-family: 'Recoleta', serif;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  .navbar .button {
+    font-family: 'Recoleta', serif;
+    font-size: 1rem;
+  }
+  
